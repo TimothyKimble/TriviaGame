@@ -8,7 +8,8 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: $body-bg;
+  background: rgb(114,211,65);
+  background: linear-gradient(236deg, rgba(114,211,65,1) 0%, rgba(138,255,87,1) 0%, rgba(1,173,209,1) 0%, rgba(146,219,255,1) 100%, rgba(208,157,223,1) 100%);
 }
 
 main {

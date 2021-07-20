@@ -10688,7 +10688,8 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #f2f2f2;
+  background: #72d341;
+  background: linear-gradient(236deg, #72d341 0%, #8aff57 0%, #01add1 0%, #92dbff 100%, #d09ddf 100%);
 }
 
 main {
